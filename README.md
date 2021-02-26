@@ -1,4 +1,4 @@
-# Gerar-DANFE-
+# DANFE
 Gerar DANFE de Vários XML de Notas Fiscais Eletrônicas NFe
 ----------------------------------------------------------
 Ao clicar no Botão navegue até a pasta que contém os XML's selecione a pasta e clique em abrir,
